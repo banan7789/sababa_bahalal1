@@ -25,7 +25,7 @@ header {
 }
 
 .responsive-image {
-  max-width: 100%;
+  max-width: 0cm;
   height: auto;
 }
 
